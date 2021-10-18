@@ -23,7 +23,8 @@ After the bootable stick is successfully created, now shutdown your computer.<br
 
 After all the installation is done, remove the USB. If your computer is equipped with ubuntu and windows simultaneously, enter BIOS menu page to set boot priority. </br></br>
 If the belowed desktop image is seen, ubuntu 18.04 is good to go on your computer.</br></br></br>
-![alt text](https://github.com/HKPolyU-UAV/How-to-install-everything/blob/main/medias/ubuntu.png)
+![alt text](https://github.com/HKPolyU-UAV/How-to-install-everything/blob/main/medias/ubuntu.png)</br></br></br>
+Reference: [Ubuntu Installation](https://ubuntu.com/tutorials/install-ubuntu-desktop#1-overview)
 
 
 
