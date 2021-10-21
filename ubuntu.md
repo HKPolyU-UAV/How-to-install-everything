@@ -14,7 +14,7 @@ After the bootable stick is successfully created, now shutdown your computer.<br
 3. your computer should now enter ubuntu desktop image. </br>
 4. follow the instruction, should be easy. </br>
 5. click on install third party drivers. </br>
-6. for the allocation of drive space. if ubuntu succesfully detects other OS, there should be option "install ubuntu alongside another operating system". </br>
+6. for the allocation of drive space, if ubuntu succesfully detects other OS, there should be option "install ubuntu alongside another operating system". </br>
 7. you can also do partition first before installation. [how to conduct partition](https://www.techadvisor.com/how-to/windows/partition-windows-10-3679598/). click on "something else", and select the freed space. In addition to above, manually allocating drive space in ubuntu can be also done, which is also shown in "something else". </br>
 8. Please be cautious when allocating your drive space, as you would not want to erase you Windows accidentally. </br>
 9. This tutorial page only serves as a reference and **would not** bear any responsibilities if things go south during the installation.</br>
